@@ -10,3 +10,5 @@
 
 <h2>Home</h2>
 <a href="x"><img src="https://i.ibb.co/3k8j0sq/Screenshot-481.png" alt="Screenshot-481" border="0"></a>
+<h2>Pagination </h2>
+<a href=""><img src="https://i.ibb.co/z8B7L6V/Screenshot-482.png" alt="Screenshot-482" border="0"></a>
