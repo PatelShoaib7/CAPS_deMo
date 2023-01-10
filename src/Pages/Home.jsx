@@ -8,10 +8,12 @@ export const Home = () => {
     console.log(count)
   return (
     <div >
-        <Banner />
-        <Body />
-        <Footer />
-
+      
+      <Banner />
+       
+      <Body />
+        
+      <Footer />
     </div>
   )
 }
