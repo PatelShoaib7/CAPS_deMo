@@ -10,7 +10,7 @@
 <a href=""><img src="https://i.ibb.co/z8B7L6V/Screenshot-482.png" alt="Screenshot-482" border="0"></a>
 <h2>Model </h2>
 <a href=""><img src="https://i.ibb.co/khc5jdz/Screenshot-483.png" alt="Screenshot-483" border="0"></a>
-<h2>Serach <h2>
+<h2>Serach Funcatinality<h2>
   <a href="htf"><img src="https://i.ibb.co/bNC5J52/Screenshot-485.png" alt="Screenshot-485" border="0"></a>
   
   <img src="https://i.ibb.co/Cm9wD4w/Screenshot-484.png" alt="Screenshot-484" border="0">
